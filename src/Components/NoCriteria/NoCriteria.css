@@ -1,0 +1,264 @@
+.noCenterHeading
+{
+    border: 3px solid green;
+}
+
+.noCenterHeadingActive h2
+{
+    padding-left: 30px;
+    color: #4CBB17;
+    /* color: #32CD32; */
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-decoration-thickness: 1.5px;
+  
+}
+
+.noCriteriaWhole h1
+{
+    color: red;
+    /* border: 3px solid green; */
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color: black;
+    text-decoration-thickness: 4px;
+    border: 2px solid purple;
+}
+
+/* .noCenterActiveContent
+{
+    /* border: 3px solid black; 
+} */
+
+.navbar
+{
+    display: flex;
+    /* border: 2px solid black; */
+    padding: 10px;
+    align-items: center;
+}
+
+
+.navLeftButton
+{
+    display: flex;
+    justify-content: flex-start;
+    /* border: 2px solid green;  */
+    width: 9%;
+}
+
+.navLeftButton a
+{
+    display: flex;
+    margin-left: 19px;
+    width: 80px;
+    height: 28px;
+    justify-content: center;
+    align-items: center;
+    background-color: #191970;
+    color: white;
+    font-size: 15.5px;
+    border-radius: 3px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.navLeftButton a:hover
+{
+    background-color: #FFBF00;
+    color: black;
+    border: 2.5px solid black;
+}
+
+.navRight
+{
+    display: flex;
+    justify-content: center;
+    /* border: 2px solid yellow; */
+    width: 88%;
+}
+
+.navRight span
+{
+   color: red;
+   font-size: 28px;
+   font-weight: 700;
+   text-decoration: underline;
+   text-decoration-color: black;
+   margin-right: 80px;
+}
+
+/* .upImg1
+{
+    display: none;
+   
+}
+
+.upImg2
+{
+    display: block;
+    position: fixed;
+    /* z-index: 99; 
+    
+    width: 70px;
+    height: 70px;
+    bottom: 20px;
+    right: 1.5%;
+    border: 2px solid black;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+img:hover
+{
+    border: 2px solid #FFBF00;
+    border-radius: 50px;
+} */
+
+
+
+.noCenterActiveContent ul
+{
+    /* padding-left: 30px; */
+    text-decoration: none;
+    color: black;
+    list-style-type: square;
+}
+
+.noCenterActiveContent a
+{
+    /* padding-left: 30px; */
+    text-decoration: none;
+    color: black;
+}
+
+
+/* .noCenterExpiredContent
+{
+    /* border: 3px solid black; 
+} */
+
+.noCenterExpiredContent ul
+{
+    /* padding-left: 30px; */
+    text-decoration: none;
+    color: black;
+    list-style-type: square;
+}
+
+.whole
+{
+    display: flex;
+    padding: 5px;
+    /* border: 2px solid rgb(56, 6, 6); */
+}
+
+.leftHalf
+{
+    display: flex;
+    /* justify-content: flex-start; */
+    /* border: 3px solid red; */
+    padding-left:45px;
+    width: 50%
+}
+
+
+
+.rightHalf
+{
+    display: flex;
+    justify-content: flex-end; 
+    /* border: 3px solid red; */
+    width: 50%;
+    padding-right:100px;
+}
+
+.naming
+{
+    /* border: 3px solid green; */
+    display: flex;
+    justify-content: flex-start;
+}
+
+.naming span
+{
+    background-color: yellow;
+    color: black;
+    font-weight: 550;
+}
+
+
+
+.dated
+{
+
+    background-color: yellow;
+    color: black;
+    /* border: 3px solid red; */
+    
+}
+
+.buttonDesign
+{
+ 
+    display: flex;
+    justify-content: flex-end;
+    /* border: 3px solid green; */
+       
+}
+
+.deadline
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:red;
+    font-size: large;
+    font-weight: 700;
+    padding-left: 20px;
+    cursor: pointer;
+    /* border: 3px solid purple; */
+}
+
+
+.buttonDesign a
+{
+  
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 20px;
+    width: 80px;
+    height: 28px;
+    justify-content: center;
+    align-items: center;
+    background-color: #191970;
+    color: white;
+    font-size: 13px;
+    border-radius: 7px;
+    cursor: pointer;
+    /* border: 3px solid purple; */
+
+}
+
+hr
+{
+    width: 100%;
+    color: black;
+}
+
+.noCenterExpiredContent a
+{
+    /* padding-left: 30px; */
+    text-decoration: none;
+    color: black;
+}
+
+
+.noCenterHeadingExpired h2
+{
+    padding-left: 30px;
+    color: red;
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-decoration-thickness: 1.5px;
+}

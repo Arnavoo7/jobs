@@ -1,0 +1,68 @@
+
+
+.CompanyWiseWhole h1
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 245px;
+    color: red;
+}
+
+.navbarWise
+{
+    display: flex;
+    width: 100%;
+    padding: 10px;
+    align-items: center;
+    /* border: 3px solid purple; */
+}
+
+.navLeftButtonWise
+{
+    display: flex;
+    justify-content: flex-start;
+    /* border: 2px solid green;  */
+    width: 9%;
+}
+
+.navLeftButtonWise a
+{
+    display: flex;
+    margin-left: 19px;
+    width: 80px;
+    height: 28px;
+    justify-content: center;
+    align-items: center;
+    background-color: #191970;
+    color: white;
+    font-size: 15.5px;
+    border-radius: 3px;
+    text-decoration: none;
+    
+    cursor: pointer;
+}
+
+.navLeftButtonWise a:hover
+{
+    background-color: #FFBF00;
+    color: black;
+    border: 2.5px solid black;
+}
+
+.navRightWise
+{
+    display: flex;
+    justify-content: center;
+    /* border: 2px solid purple; */
+    width: 88%;
+}
+
+.navRightWise span
+{
+   color: red;
+   font-size: 28px;
+   font-weight: 700;
+   text-decoration: underline;
+   text-decoration-color: black;
+   margin-right: 80px;
+}

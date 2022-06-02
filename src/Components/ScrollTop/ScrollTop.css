@@ -1,0 +1,27 @@
+.upImg1
+{
+    display: none;
+   
+}
+
+.upImg2
+{
+    display: block;
+    position: fixed;
+    /* z-index: 99; */
+    
+    width: 70px;
+    height: 70px;
+    bottom: 20px;
+    right: 1.5%;
+    border: 2px solid black;
+    border-radius: 50px;
+    cursor: pointer;
+    z-index: 2;
+}
+
+img:hover
+{
+    border: 2px solid #FFBF00;
+    border-radius: 50px;
+}
