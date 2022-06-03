@@ -17,15 +17,16 @@ const NoCriteria = () => {
         <div className="noCriteriaWhole">
 
           <div className="navbar">
-           
-              <div className="navLeftButton">
+              <div className=" navLeftButton">
                 <a onClick={() => { navigate("/") }}>Home</a>
               </div>
+
               <div className="navRight">
                 <span>IT Jobs (no % criteria)</span>
               </div>
-        
           </div>
+
+
           <br></br>
           <br></br>
           <div className="noCenterHeadingActive">
@@ -50,15 +51,13 @@ const NoCriteria = () => {
 
                       <div className="naming">
                         <span>mjunction services</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Application Developer Trainees)
-                      </div>
-                      
+                      </div> 
                   
                     </div>
 
                     <div className="rightHalf">
 
                      
-
                       <span className="dated">02/06/22</span>
 
                       <div className="buttonDesign">
@@ -220,7 +219,7 @@ const NoCriteria = () => {
                     <div className="leftHalf">
 
                       <div className="naming">
-                        <span>DigiLocker</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;DigiLocker Internship&nbsp;<strong>(many profiles)</strong>)
+                        <span>DigiLocker</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;DigiLocker Internship)
                       </div>
                       
                   
