@@ -13,25 +13,27 @@ const Home = () => {
 
         <div className="wholeHome">
           <h1>IT Jobs</h1>
+
           <div className="section">
-          
-            <button className="subSections" onClick={() => { navigate("/alljobs"); }}>
+
+            <button className="subSections1" onClick={() => { navigate("/alljobs"); }}>
               <h2>All jobs</h2>
             </button>
 
-            <button className="subSections" onClick={() => { navigate("/companywise") }}>
+            <button className="subSections2" onClick={() => { navigate("/companywise") }}>
               <h2>Company wise jobs</h2>
             </button>
   
-            <button className="subSections" onClick={() => { navigate("/lessthansixty") }}>
+            <button className="subSections3" onClick={() => { navigate("/lessthansixty") }}>
               <h2>less than 60%</h2>   
             </button>
   
-            <button className="subSections" onClick={() => { navigate("/nocriteria"); }}>
+            <button className="subSections4" onClick={() => { navigate("/nocriteria"); }}>
               <h2>no % criteria</h2>   
             </button>
            
           </div>
+          
         </div>
     );
 }

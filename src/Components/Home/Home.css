@@ -1,6 +1,6 @@
 .wholeHome
 {
-    /* display: flex; */
+    
     /* border: 5px solid black; */
     padding: 20px 10px 20px 10px;
     /* width: 100%; */
@@ -24,7 +24,8 @@
 .section
 {
     display: flex;
-    /* border: 3px solid purple; */
+    flex-direction: row;
+    /* border: 3px solid black; */
     margin-top: 60px;
 }
 
@@ -36,13 +37,14 @@
 }
 
 
-.subSections
+.subSections1
 {
     display: flex;
+    flex: 25%;
     justify-content: center;
     align-items: center;
     border: 2.5px solid yellow;
-    border-radius: 17px;
+    border-radius: 12px;
     margin: 22px 20px 22px 20px;
     padding: 0px 8px 0px 8px;
     width: 25%;
@@ -50,5 +52,94 @@
     background-color: #191970;
     color: white;
     cursor: pointer;  
+    border: 2.5px solid red;
+}
+
+
+.subSections2
+{
+    display: flex;
+    flex: 25%;
+    justify-content: center;
+    align-items: center;
+    border: 2.5px solid yellow;
+    border-radius: 12px;
+    margin: 22px 20px 22px 20px;
+    padding: 0px 8px 0px 8px;
+    width: 25%;
+    height: 150px;
+    background-color: #191970;
+    color: white;
+    cursor: pointer;  
+    border: 2.5px solid red;
+}
+
+
+.subSections3
+{
+    display: flex;
+    flex: 25%;
+    justify-content: center;
+    align-items: center;
+    border: 2.5px solid yellow;
+    border-radius: 12px;
+    margin: 22px 20px 22px 20px;
+    padding: 0px 8px 0px 8px;
+    width: 25%;
+    height: 150px;
+    background-color: #191970;
+    color: white;
+    cursor: pointer;  
+    border: 2.5px solid red;
+}
+
+
+.subSections4
+{
+    display: flex;
+    flex: 25%;
+    justify-content: center;
+    align-items: center;
+    border: 2.5px solid yellow;
+    border-radius: 12px;
+    margin: 22px 20px 22px 20px;
+    padding: 0px 8px 0px 8px;
+    width: 25%;
+    height: 150px;
+    background-color: #191970;
+    color: white;
+    cursor: pointer;  
+    border: 2.5px solid red;
+}
+
+
+@media (max-width: 700px)
+{
+    .section
+    {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .subSections1
+    {
+        width: 85%;
+    }
+
+    .subSections2
+    {
+        width: 85%;
+    }
+
+    .subSections3
+    {
+        width: 85%;
+    }
+
+    .subSections4
+    {
+        width: 85%;
+    }
 }
 

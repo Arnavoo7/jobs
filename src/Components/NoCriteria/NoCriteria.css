@@ -138,7 +138,7 @@
     /* justify-content: flex-start; */
     /* border: 3px solid red; */
     padding-left:45px;
-    flex: 50%;
+    flex: 60%;
     /* height: 10vh; */
     word-wrap: break-word;
 }
@@ -150,7 +150,7 @@
     display: flex;
     justify-content: flex-end; 
     /* border: 3px solid red; */
-    flex: 50%;
+    flex: 40%;
     padding-right:100px;
     word-wrap: break-word;
 }
@@ -253,7 +253,7 @@ hr
 
 
 
-@media (max-width: 750px)
+@media (max-width: 835px)
 {
     .navbar
     {
@@ -262,20 +262,23 @@ hr
 
     .navRight
     {
-        margin-top: 10px;
+        margin-top: 12px;
     }
 
-    .leftHalf
+    /* .leftHalf
     {
         justify-content: center;
         align-items: center;
-    }
+    } */
 
     .rightHalf
     {
        
         justify-content: center;
         align-items: center;
+        border: 3px solid red;
+        margin-top: 5px;
+        padding-right: 0;
     }
 }
 
