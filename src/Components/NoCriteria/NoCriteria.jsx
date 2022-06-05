@@ -50,6 +50,343 @@ const NoCriteria = () => {
                     <div className="leftHalf">
 
                       <div className="naming">
+                        <span>Cognizant</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Engineer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                     
+                      <span className="dated">05/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://careers.cognizant.com/in/en/job/COGNGLOBAL000425873831/Software-Engineer/" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>IBM</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Associate Systems Engineer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                     
+                      <span className="dated">05/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://careers.ibm.com/job/14211227/associate-systems-engineer--in/?codes=IBM_CareerWebSite" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Mindtree</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Java developer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                     
+                      <span className="dated">05/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://www.mindtree.com/careers/jobs-apply/sse-applications-chennai-java-2021061413395554" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Mindtree</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Java - Spring Boot)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                     
+                      <span className="dated">05/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://www.mindtree.com/careers/jobs-apply/sse-intg-proc-auto-hyderabad-spring-boot-2021070210353218" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>EdgeVerve</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Product Developer - EV)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                     
+                      <span className="dated">04/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26209&siteid=5179&PageType=JobDetails&jobid=1054104#jobDetails=1054104_5179" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Vmware</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Technical Support Engineer - P1)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                     
+                      <span className="dated">04/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://careers.vmware.com/main/jobs/R2212678" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Cognizant</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Programmer Analyst)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                     
+                      <span className="dated">04/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://careers.cognizant.com/in/en/job/00045236321/Programmer-Analyst" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Amdocs</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Support Engineer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                     
+                      <span className="dated">03/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://jobs.amdocs.com/job/Pune-Software-Support-Engineer-MH/891667100/" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>LTI</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Engineer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                     
+                      <span className="dated">03/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://careers.lntinfotech.com/job/Mumbai-Software-Engineer-MH/807166201/" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Persistent</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Python Developer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                     
+                      <span className="dated">03/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://persistent.taleo.net/careersection/xxpsl_ex_cs/jobdetail.ftl?job=ORG00000030" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
                         <span>mjunction services</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Application Developer Trainees)
                       </div> 
                   
