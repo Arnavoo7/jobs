@@ -127,20 +127,18 @@
 {
     display: flex;
     padding: 5px;
-    /* border: 2px solid rgb(56, 6, 6); */
     flex-wrap: wrap;
+    /* border: 2px solid rgb(56, 6, 6); */
 }
 
 
 .leftHalf
 {
     display: flex;
-    /* justify-content: flex-start; */
-    /* border: 3px solid red; */
     padding-left:45px;
     flex: 60%;
-    /* height: 10vh; */
-    word-wrap: break-word;
+    /* border: 3px solid red; */
+
 }
 
 
@@ -152,7 +150,7 @@
     /* border: 3px solid red; */
     flex: 40%;
     padding-right:100px;
-    word-wrap: break-word;
+
 }
 
 .naming
@@ -265,20 +263,33 @@ hr
         margin-top: 12px;
     }
 
-    /* .leftHalf
+    .whole
     {
-        justify-content: center;
-        align-items: center;
-    } */
+        border: 3px solid black;
+        
+    }
+
+    .leftHalf
+    {
+        padding-left: 35px;
+    }
 
     .rightHalf
     {
        
         justify-content: center;
         align-items: center;
-        border: 3px solid red;
+        border: 3px solid #FFBF00;
         margin-top: 5px;
         padding-right: 0;
     }
+
+    .noCenterActiveContent ul
+    {
+    
+        list-style-type: none;
+    }
+
+
 }
 
