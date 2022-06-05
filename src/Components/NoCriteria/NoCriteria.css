@@ -5,7 +5,10 @@
 
 .noCenterHeadingActive
 {
+    
+    display: flex;
     /* border: 3px solid green; */
+
 }
 
 .noCenterHeadingActive h2
@@ -266,6 +269,7 @@ hr
     .whole
     {
         border: 3px solid black;
+        padding: 0;
         
     }
 
@@ -286,8 +290,13 @@ hr
 
     .noCenterActiveContent ul
     {
-    
         list-style-type: none;
+        padding: 0;
+    }
+
+    .noCenterHeadingActive
+    {
+        justify-content: center;
     }
 
 
