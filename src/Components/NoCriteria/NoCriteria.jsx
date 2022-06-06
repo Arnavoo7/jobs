@@ -161,7 +161,7 @@ const NoCriteria = () => {
 
                       <div className="buttonDesign">
                     
-                        <a href="https://dxctechnology.wd1.myworkdayjobs.com/en-US/DXCJobs/job/IND---TN---CHENNAI/Professional-1-System-Engineer--51005832-_51414173" target="_blank">Apply</a>
+                        <a href="https://indiacampus.accenture.com/myzone/accenture/1/jobs/2521/job-details" target="_blank">Apply</a>
                         
                       </div>
 
