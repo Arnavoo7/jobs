@@ -50,6 +50,172 @@ const NoCriteria = () => {
                     <div className="leftHalf">
 
                       <div className="naming">
+                        <span>MKCL</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Project Trainee)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                     
+                      <span className="dated">06/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://www.mkcl.org/careers/pt-2022" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: 22/06/22">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Amazon</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Development Engineer Intern)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                     
+                      <span className="dated">06/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://www.amazon.jobs/en/jobs/2043536/software-development-engineer-intern" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>HackerRank</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Content Engineer Intern)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                     
+                      <span className="dated">06/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://boards.greenhouse.io/hackerrank/jobs/4160006?gh_jid=4160006" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Accenture</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Application Development Associate)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                     
+                      <span className="dated">06/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://dxctechnology.wd1.myworkdayjobs.com/en-US/DXCJobs/job/IND---TN---CHENNAI/Professional-1-System-Engineer--51005832-_51414173" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>DXC</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;System Engineer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                     
+                      <span className="dated">06/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://dxctechnology.wd1.myworkdayjobs.com/en-US/DXCJobs/job/IND---TN---CHENNAI/Professional-1-System-Engineer--51005832-_51414173" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
                         <span>Cognizant</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Engineer)
                       </div> 
                   
