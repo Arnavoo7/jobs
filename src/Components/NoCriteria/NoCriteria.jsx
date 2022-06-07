@@ -50,6 +50,105 @@ const NoCriteria = () => {
                     <div className="leftHalf">
 
                       <div className="naming">
+                        <span>Myntra</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Data Analyst)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                     
+                      <span className="dated">07/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://boards.greenhouse.io/myntra/jobs/5612825002?gh_src=bb272d8c2" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Cognizant</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Associate - Projects)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                     
+                      <span className="dated">07/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://careers.cognizant.com/in/en/job/COGNGLOBAL00047950133/Associate-Projects?utm_source" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>VVDN Technologies</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Fresher)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                     
+                      <span className="dated">07/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://www.vvdntech.com/careers/fresher-registration?applied_by=fresher" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
                         <span>MKCL</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Project Trainee)
                       </div> 
                   
@@ -846,68 +945,6 @@ const NoCriteria = () => {
                 </li>
                 <hr></hr>
 
-
-              
-                <li>
-                  <div className="whole">
-
-                    <div className="leftHalf">
-
-                      <div className="naming">
-                        <span>FirstMeridian</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Full Stack Developer)
-                      </div>
-                      
-                  
-                    </div>
-
-                    <div className="rightHalf">
-
-                      <span className="dated">26/05/22</span>
-
-                      <div className="buttonDesign">
-                    
-                        <a href="https://match.myanatomy.in/corporate/customCampaign/view?publicLink=9e7764f85f05fa1c5a82245502434a85%3Ba04c0c6fafdd1ba4b4d61b6ca5172242f2718fdc237ffa1f235ada41be9c8d0e515cde8233d6b3404f1d9b25930e5b68445d39d3b56d54951a5735d7facd8537edff777c2453ee9fd75bdc37d70c4a0f0b53db350102d3ceffbda2ae6cef83199fb55c03b2266b7f8ddf7797c3d4869384ac9013598d23af05030050a8dcb88503a5d82439cf0e17fa92ddadb90bee94eccd9b21cc1e7ab0d4ad16f0fb167123aa6b62dd5c221e8eadc7e906770e0550413e571c969ae14c7e32d3015e0c570085361888c0e3a11d9f51ba243def00ec&source=n" target="_blank">Apply</a>
-                        
-                      </div>
-
-                      <span className="deadline" title="Deadline: not mentioned">D</span>
-
-                    </div>
-
-                  </div>
-                  
-                </li>
-                <hr></hr>
-
-
-
-              <li>
-                  <div className="whole">
-
-                    <div className="leftHalf">
-
-                      <div className="naming">
-                        <span>FirstMeridian</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Mobile Application Developer)
-                      </div>
-                  
-                    </div>
-
-                    <div className="rightHalf">
-
-                      <span className="dated">26/05/22</span>
-                      <div className="buttonDesign">
-                    
-                        <a href="https://match.myanatomy.in/corporate/customCampaign/view?publicLink=9e7764f85f05fa1c5a82245502434a85%3Ba04c0c6fafdd1ba4b4d61b6ca5172242f2718fdc237ffa1f235ada41be9c8d0e515cde8233d6b3404f1d9b25930e5b68445d39d3b56d54951a5735d7facd8537edff777c2453ee9fd75bdc37d70c4a0f0b53db350102d3ceffbda2ae6cef83199fb55c03b2266b7f8ddf7797c3d4869384ac9013598d23af05030050a8dcb88503a5d82439cf0e17fa92ddadb90bee94eccd9b21cc1e7ab0d4ad16f0fb167123aa6b62dd5c221e8eadc7e906770e0550413e571c969ae14c7e32d3015e0c570085361888c0e3a11d9f51ba243def00ec&source=n" target="_blank">Apply</a>
-                      </div>
-
-                      <span className="deadline" title="Deadline: not mentioned">D</span>
-
-                    </div>
-
-                  </div>
-                  
-                </li>
-                <hr></hr>
 
 
 
