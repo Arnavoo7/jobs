@@ -4,7 +4,7 @@ import Home from "./Components/Home/Home";
 import AllJobs from "./Components/AllJobs/AllJobs";
 import NoCriteria from "./Components/NoCriteria/NoCriteria";
 import CompanyWise from "./Components/CompanyWise/CompanyWise";
-import LessThanSixty from "./Components/LessThanSixty/LessThanSixty";
+import Others from "./Components/Others/Others";
 import ScrollTop from "./Components/ScrollTop/ScrollTop";
 
 
@@ -17,9 +17,9 @@ const App = () => {
       <Routes>
 
         <Route path="/alljobs" element={ <AllJobs /> } />
-        <Route path="/nocriteria" element={ <NoCriteria /> } />
         <Route path="/companywise" element={ <CompanyWise /> } />
-        <Route path="/lessthansixty" element={ <LessThanSixty /> } />
+        <Route path="/nocriteria" element={ <NoCriteria /> } />
+        <Route path="/others" element={ <Others /> } />
 
         <Route exact path="/" element={ <Home/> } />
 

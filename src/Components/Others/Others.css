@@ -1,0 +1,420 @@
+.ONavText
+{
+    margin-right: 100px;
+}
+
+.OSsection
+{
+    display: flex;
+    flex-direction: row;
+    margin-top: 60px;
+    /* height: 500px; */
+    /* border: 3px solid yellowgreen; */
+}
+
+/* 1st */
+.OSsubSection1
+{
+    display: flex;
+    position: relative;
+    flex: 50%;
+    height: 440px;
+    justify-content: center;  
+    /* border-right: 0.5px solid black; */
+    margin: 22px 20px 22px 20px;
+    padding: 0px 8px 0px 8px;
+    background-color: white;
+    /* border: 3px solid red;   */
+}
+
+.OSsubSection1:hover
+{
+    border-radius: 150px;
+    box-shadow: 1px 13px 19px lightseagreen;
+}
+
+.nqtImg
+{
+    position: absolute;
+    top: -5%;
+    display: flex;
+    width: 210px;
+    height: 75px;
+    pointer-events: none;   /*To remove all pointer events*/
+    /* border: 3px solid purple; */
+
+}
+
+.together
+{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 30%;
+    width: 60%;
+    height: 35%;
+    /* border: 3px solid blue;     */
+}
+
+/*IT*/
+.p0
+{
+    display: flex;
+    position: absolute;
+    font-size: 18px;
+    color: black;
+    background: yellow;
+    font-weight: 500;
+    /* border: 3px solid purple; */
+}
+
+/*Active*/
+.Active0
+{
+    display: flex;
+    position: absolute; 
+    justify-content: center;
+    align-items: center;
+    top: 21%;
+    /* left: 265px;  */
+    background: #4CBB17;
+    color: white;
+    border-radius: 18px;
+    width: 100px;
+    height: 40px;
+    /* border: 3px solid black; */
+}
+
+/*Deadline*/
+.p1
+{
+    display: flex;
+    position: absolute;
+    top: 38%;
+    font-size: 15px;
+    color: rgb(172, 2, 2);
+    font-weight: 500;
+    /* border: 3px solid purple; */
+}
+
+/*Test*/
+.p2
+{
+    display: flex;
+    position: absolute;
+    top: 68%;
+    font-size: 15px;
+    color: rgb(3, 99, 3);
+    font-weight: 500;
+    /* border: 3px solid purple; */
+}
+
+
+.btn1
+{
+
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    top: 75%;
+    width: 130px;
+    height: 45px;
+    background: #191970;
+    border: 2px solid #FFBF00;
+    border-radius: 22px;
+    color: white;
+    text-decoration: none;
+
+}
+
+.btn1:hover
+{
+    background-color: #FFBF00;
+    color: black;
+    border: 2.5px solid black;
+    cursor: pointer;
+}
+
+
+
+/* 2nd */
+.OSsubSection2
+{
+    display: flex;
+    position: relative;
+    flex: 50%;
+    height: 440px;
+    justify-content: center;  
+    /* border-right: 0.5px solid black; */
+    margin: 22px 20px 22px 20px;
+    padding: 0px 8px 0px 8px;
+    background-color: white;
+    /* border: 3px solid red;   */
+}
+
+.OSsubSection2:hover
+{
+    border-radius: 150px;
+    box-shadow: 1px 13px 19px lightcoral;
+}
+
+/*common_nqt_img*/
+.nqtImg
+{
+    position: absolute;
+    top: -5%;
+    display: flex;
+    width: 210px;
+    height: 75px;
+    pointer-events: none;   /*To remove all pointer events*/
+    /* border: 3px solid purple; */
+
+}
+
+.together
+{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 30%;
+    width: 60%;
+    height: 35%;
+    /* border: 3px solid blue;     */
+}
+
+/*IT*/
+.p0
+{
+    display: flex;
+    position: absolute;
+    font-size: 18px;
+    color: black;
+    background: yellow;
+    font-weight: 500;
+    /* border: 3px solid purple; */
+}
+
+/*Active*/
+.Active0
+{
+    display: flex;
+    position: absolute; 
+    justify-content: center;
+    align-items: center;
+    top: 21%;
+    /* left: 265px;  */
+    background: #4CBB17;
+    color: white;
+    border-radius: 18px;
+    width: 100px;
+    height: 40px;
+    /* border: 3px solid black; */
+}
+
+/*Deadline*/
+.p1
+{
+    display: flex;
+    position: absolute;
+    top: 38%;
+    font-size: 15px;
+    color: rgb(172, 2, 2);
+    font-weight: 500;
+    /* border: 3px solid purple; */
+}
+
+/*Test*/
+.p2
+{
+    display: flex;
+    position: absolute;
+    top: 68%;
+    font-size: 15px;
+    color: rgb(3, 99, 3);
+    font-weight: 500;
+    /* border: 3px solid purple; */
+}
+
+
+.btn1
+{
+
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    top: 75%;
+    width: 130px;
+    height: 45px;
+    background: #191970;
+    border: 2px solid #FFBF00;
+    border-radius: 22px;
+    color: white;
+    text-decoration: none;
+
+}
+
+.btn1:hover
+{
+    background-color: #FFBF00;
+    color: black;
+    border: 2.5px solid black;
+    cursor: pointer;
+}
+
+
+
+/* 3rd */
+.OSsubSection3
+{
+    display: flex;
+    position: relative;
+    flex: 50%;
+    height: 440px;
+    justify-content: center;  
+    /* border-right: 0.5px solid black; */
+    margin: 22px 20px 22px 20px;
+    padding: 0px 8px 0px 8px;
+    background-color: white;
+    /* border: 3px solid red;   */
+}
+
+.OSsubSection3:hover
+{
+    border-radius: 150px;
+    box-shadow: 1px 13px 19px lightslategrey;
+}
+
+/*common_nqt_img*/
+.amazonml
+{
+    position: absolute;
+    top: -6%;
+    display: flex;
+    width: 170px;
+    height: 100px;
+    border-radius: 48px;
+    pointer-events: none;   /*To remove all pointer events*/
+    /* border: 3px solid purple; */
+
+}
+
+.together
+{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 30%;
+    width: 60%;
+    height: 35%;
+    /* border: 3px solid blue;     */
+}
+
+/*IT*/
+.p3
+{
+    display: flex;
+    position: absolute;
+    font-size: 18px;
+    width: 320px;
+    color: black;
+    background: yellow;
+    font-weight: 500;
+    /* border: 3px solid purple; */
+}
+
+/*Active*/
+.Active0
+{
+    display: flex;
+    position: absolute; 
+    justify-content: center;
+    align-items: center;
+    top: 21%;
+    /* left: 265px;  */
+    background: #4CBB17;
+    color: white;
+    border-radius: 18px;
+    width: 100px;
+    height: 40px;
+    /* border: 3px solid black; */
+}
+
+/*Deadline*/
+.p1
+{
+    display: flex;
+    position: absolute;
+    top: 38%;
+    font-size: 15px;
+    color: rgb(172, 2, 2);
+    font-weight: 500;
+    /* border: 3px solid purple; */
+}
+
+/*Test*/
+.p2
+{
+    display: flex;
+    position: absolute;
+    top: 68%;
+    font-size: 15px;
+    color: rgb(3, 99, 3);
+    font-weight: 500;
+    /* border: 3px solid purple; */
+}
+
+
+.btn1
+{
+
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    top: 75%;
+    width: 130px;
+    height: 45px;
+    background: #191970;
+    border: 2px solid #FFBF00;
+    border-radius: 22px;
+    color: white;
+    text-decoration: none;
+
+}
+
+.btn1:hover
+{
+    background-color: #FFBF00;
+    color: black;
+    border: 2.5px solid black;
+    cursor: pointer;
+}
+
+
+
+
+
+/*Responsive code*/
+@media (max-width: 850px)
+{
+
+    .ONavText
+    {
+        margin-right: 0;
+    }
+
+    .OSsection
+    {
+        flex-direction: column;
+        height: 1800px;
+    
+    }
+
+    .OSsubSection1
+    {
+        height: 440px;
+    }
+
+}

@@ -50,6 +50,137 @@ const NoCriteria = () => {
                     <div className="leftHalf">
 
                       <div className="naming">
+                        <span>Samsung</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Graduate Engineer Trainee)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">14/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://www.elitmus.com/jobs/33014-samsung-network-graduate-engineer-trainee-mumbai-gurgaon?jobs_evaluation=2258" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: 22/06/22">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Josh Technology Group</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Developer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">13/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://jtg.calyxpod.com/candidate-registrations/software-developer-2022-batch-mega-drive/3191c2dba2/" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: 17/06/22">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Accenture</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Security Analyst)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">12/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://www.elitmus.com/jobs/33033-accenture-solutions-security-analyst-me-mtech-pan-india?jobs_evaluation=2280" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Thoughtworks</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Women Application Developer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                     
+                      <span className="dated">08/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://assessment.hackerearth.com/challenges/hiring/thoughtworks-hiring-challenge-for-women-developer-2022-hiring-challenge/" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: 26/06/22">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
                         <span>Myntra</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Data Analyst)
                       </div> 
                   

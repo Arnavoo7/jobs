@@ -24,12 +24,12 @@ const Home = () => {
               <h2>Company wise jobs</h2>
             </button>
   
-            <button className="subSections3" onClick={() => { navigate("/lessthansixty") }}>
-              <h2>less than 60%</h2>   
+            <button className="subSections3" onClick={() => { navigate("/nocriteria") }}>
+              <h2>50% or no criteria</h2>   
             </button>
   
-            <button className="subSections4" onClick={() => { navigate("/nocriteria"); }}>
-              <h2>no % criteria</h2>   
+            <button className="subSections4" onClick={() => { navigate("/others"); }}>
+              <h2>others</h2>   
             </button>
            
           </div>
