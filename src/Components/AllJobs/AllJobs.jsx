@@ -16,10 +16,10 @@ const AllJobs = () => {
            
             <div className="navLeftButtonAll">
               <a onClick={() => { navigate("/") }}>Home</a>
-            </div>
+            </div>{/*
             <div className="navRightAll">
               <span>IT Jobs (All)</span>
-            </div>
+    </div>*/}
 
             </div>
         

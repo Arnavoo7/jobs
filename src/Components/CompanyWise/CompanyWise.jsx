@@ -15,10 +15,10 @@ return(
            
            <div className="navLeftButtonWise">
              <a onClick={() => { navigate("/") }}>Home</a>
-           </div>
+           </div>{/*
            <div className="navRightWise">
              <span>IT Jobs (Company wise)</span>
-           </div>
+</div>*/}
 
            </div>
 

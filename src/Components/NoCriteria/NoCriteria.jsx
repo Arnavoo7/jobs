@@ -50,6 +50,168 @@ const NoCriteria = () => {
                     <div className="leftHalf">
 
                       <div className="naming">
+                        <span>DeltaX</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Developer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">16/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://deltax.com/career/" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Dell Technologies</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Engineer (SDET))
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">16/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://jobs.dell.com/job/-/-/375/30017634240" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: 30/07/22">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Robosoft Technologies</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Engineer Trainee)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">15/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeATUMxOHqsR7-EPMKVhmaNd3BQl4XGEnwxbWhXjqwzkWdXiw/viewform" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Aigilx Health Technologies</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Engineer Trainee)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">15/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLScB562gnfCz9auoDC1J40RFLMTIsUs-utGZ9q955rp8lMuKKg/viewform?fbzx=-108575796375015266" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Xactly</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Customer Support Analyst)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">14/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://careers.xactlycorp.com/jobs/1608" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
                         <span>Samsung</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Graduate Engineer Trainee)
                       </div> 
                   
