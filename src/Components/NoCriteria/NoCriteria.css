@@ -50,10 +50,8 @@
 .navLeftButton
 {
     display: flex;
-    /* justify-content: flex-start; */
     /* border: 2px solid green;  */
-    /* width: 100%; */
-    flex: 10%;
+    flex: 0%;
 } 
 
 .navLeftButton a
@@ -86,8 +84,7 @@
     justify-content: center;
     align-items: center;
     /* border: 2px solid purple; */
-    /* width: 100%; */
-    flex: 90%;
+    flex: 100%;
 }
 
 .navRight span

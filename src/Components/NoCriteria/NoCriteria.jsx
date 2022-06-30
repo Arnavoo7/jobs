@@ -50,6 +50,166 @@ const NoCriteria = () => {
                     <div className="leftHalf">
 
                       <div className="naming">
+                        <span>Danaher</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;QA Engineer Trainee)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">01/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://jobs.danaher.com/global/en/job/DANAGLOBALR1211596EXTERNALENGLOBAL/QA-Engineer-Trainee?utm_source=linkedin&utm_medium=phenom-feeds" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>CME Group</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Intern)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">01/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://jobs.cmegroup.com/jobs/8154078-intern-india-2022?tm_job=25181" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Samsung</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Developer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">01/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfEyZ73wq0-PjRCSZHCRrtKdQUb10C87ALZtYUxaSUJQPSw3A/viewform" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>BETSOL</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Cloud Support Associate)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">30/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://forms.office.com/pages/responsepage.aspx?id=piL7sGAwiEOal838NCmU2IA4FHeqK-RGgr2JgcZidt9UQjZWNEhUSkE1STdFMlkyMjNTWU5NTE5HSi4u" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>D Cube Analytics</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Multiple)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">30/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdd3Z_LsxAQpDx6lhgcVPtimqiZicNXr84tWgVLkm-lKWx6uQ/viewform" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
                         <span>Zoho</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Developer)
                       </div> 
                   
