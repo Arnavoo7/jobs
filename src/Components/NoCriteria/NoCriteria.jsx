@@ -50,6 +50,39 @@ const NoCriteria = () => {
                     <div className="leftHalf">
 
                       <div className="naming">
+                        <span>Zoho</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Developer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">30/06/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://careers.zohocorp.com/forms/fcc89b5ebd373d598e0224d10f2199d152c193ab04ef6c4888f2775da6c6534f" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: 8/07/22">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
                         <span>DeltaX</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Developer)
                       </div> 
                   
