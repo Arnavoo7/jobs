@@ -50,6 +50,38 @@ const NoCriteria = () => {
                     <div className="leftHalf">
 
                       <div className="naming">
+                        <span>Nielsen</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Data Science Intern)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">02/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://jobs.lever.co/nielsen/93986576-87c2-4d49-a0f5-7cb65675241f" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
                         <span>Danaher</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;QA Engineer Trainee)
                       </div> 
                   
