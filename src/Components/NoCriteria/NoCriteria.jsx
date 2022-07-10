@@ -50,6 +50,167 @@ const NoCriteria = () => {
                     <div className="leftHalf">
 
                       <div className="naming">
+                        <span>DeltaX</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Digital Media Operations Analyst)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">11/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfMECAQgkzLpq8joJkAfUw0hJwjn_RsbdzOR_s-O-rd15lDLg/viewform">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>DTDL</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">11/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfCignLe6WzTAiXuEZeTqMzuw6nZN2Au55OIi2Lll3yQxzXdQ/viewform?vc=0&c=0&w=1&flr=0">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Trangile</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Trainee Engineer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">10/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSd9b8u5bAINbCmTDrKR8wnyxiBFVl_SXi7NksMG0uG9jvj28A/viewform">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>ZOHO</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Developer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">10/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://careers.zohocorp.com/forms/fcc89b5ebd373d598e0224d10f2199d1af55fb9728c751d2ea409697ce0ce8d1">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>TibcoSpirit</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Fresher)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">10/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLScJkFTKBrJFFkmSj6O_Spkms_yCLHIiMC1_8ddwHZlRjzLSkQ/viewform">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
                         <span>Nielsen</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Data Science Intern)
                       </div> 
                   
