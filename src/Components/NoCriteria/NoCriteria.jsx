@@ -61,7 +61,7 @@ const NoCriteria = () => {
 
                       <div className="buttonDesign">
                     
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfMECAQgkzLpq8joJkAfUw0hJwjn_RsbdzOR_s-O-rd15lDLg/viewform">Apply</a>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfMECAQgkzLpq8joJkAfUw0hJwjn_RsbdzOR_s-O-rd15lDLg/viewform" target="_blank">Apply</a>
                         
                       </div>
 
@@ -93,7 +93,7 @@ const NoCriteria = () => {
 
                       <div className="buttonDesign">
                     
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfCignLe6WzTAiXuEZeTqMzuw6nZN2Au55OIi2Lll3yQxzXdQ/viewform?vc=0&c=0&w=1&flr=0">Apply</a>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfCignLe6WzTAiXuEZeTqMzuw6nZN2Au55OIi2Lll3yQxzXdQ/viewform?vc=0&c=0&w=1&flr=0" target="_blank">Apply</a>
                         
                       </div>
 
@@ -125,7 +125,7 @@ const NoCriteria = () => {
 
                       <div className="buttonDesign">
                     
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSd9b8u5bAINbCmTDrKR8wnyxiBFVl_SXi7NksMG0uG9jvj28A/viewform">Apply</a>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSd9b8u5bAINbCmTDrKR8wnyxiBFVl_SXi7NksMG0uG9jvj28A/viewform" target="_blank">Apply</a>
                         
                       </div>
 
@@ -158,7 +158,7 @@ const NoCriteria = () => {
 
                       <div className="buttonDesign">
                     
-                        <a href="https://careers.zohocorp.com/forms/fcc89b5ebd373d598e0224d10f2199d1af55fb9728c751d2ea409697ce0ce8d1">Apply</a>
+                        <a href="https://careers.zohocorp.com/forms/fcc89b5ebd373d598e0224d10f2199d1af55fb9728c751d2ea409697ce0ce8d1" target="_blank">Apply</a>
                         
                       </div>
 
@@ -190,7 +190,7 @@ const NoCriteria = () => {
 
                       <div className="buttonDesign">
                     
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLScJkFTKBrJFFkmSj6O_Spkms_yCLHIiMC1_8ddwHZlRjzLSkQ/viewform">Apply</a>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLScJkFTKBrJFFkmSj6O_Spkms_yCLHIiMC1_8ddwHZlRjzLSkQ/viewform" target="_blank">Apply</a>
                         
                       </div>
 
