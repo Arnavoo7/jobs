@@ -22,7 +22,7 @@ const NoCriteria = () => {
               </div>
 
               <div className="navRight">
-                <span>IT Jobs (no % criteria)</span>
+                <span>IT Jobs (50 or no % criteria)</span>
               </div>
           </div>
 
@@ -42,6 +42,338 @@ const NoCriteria = () => {
           <div className="noCenterActiveContent">
 
               <ul>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>hackerearth</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Intern - Problem Setter - Fullstack)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">18/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://hackerearthjobs.hire.trakstar.com/jobs/fk0so6k" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Sasken</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Engineer - APP Software)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">18/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://careers.sasken.com/job/ENGINEER-APP-SOFTWARE/7303244/" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Sasken</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Engineer - System Software)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">17/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://careers.sasken.com/job/ENGINEER-SYSTEM-SOFTWARE/8586644/" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>asianpaints</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Programmer Analyst)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">17/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://asianpaints.thetalentpool.co.in/web/#/home/open-positions/2271/details" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>servicenow</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software QA Engineer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">17/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://careers.servicenow.com/careers/jobs/743999803785958EXT" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>GSK</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Associate Programmer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">16/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://jobs.gsk.com/en-gb/jobs/342104?lang=en-us&source=LinkedIn" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Samsung</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Graduate Engineer Trainee)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">16/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://www.elitmus.com/jobs/33014-samsung-network-graduate-engineer-trainee-mumbai-gurgaon" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: 21/07/22">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Accenture</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Associate Software Engineering )
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">15/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://indiacampus.accenture.com/myzone/accenture/1/jobs/2211/job-details" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Accenture</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;System and Application Services Associate)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">15/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://indiacampus.accenture.com/myzone/accenture/1/jobs/2183/job-details" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>ZOHO</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Developer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">15/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://careers.zohocorp.com/forms/fcc89b5ebd373d598e0224d10f2199d1d084214bfdca8ff29dc971b9f11a3fe3" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
 
 
               <li>
