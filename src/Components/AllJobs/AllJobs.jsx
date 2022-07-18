@@ -46,7 +46,7 @@ const AllJobs = () => {
                     <div className="leftHalf">
 
                       <div className="naming">
-                        <span>hackerearth</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Intern - Problem Setter - Fullstack)
+                        <span>Siemens</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Associate Software Engineer)
                       </div> 
                   
                     </div>
@@ -57,7 +57,7 @@ const AllJobs = () => {
 
                       <div className="buttonDesign">
                     
-                        <a href="https://hackerearthjobs.hire.trakstar.com/jobs/fk0so6k" target="_blank">Apply</a>
+                        <a href="https://jobs.siemens.com/jobs/325382?lang=en-us" target="_blank">Apply</a>
                         
                       </div>
 
@@ -79,7 +79,7 @@ const AllJobs = () => {
                     <div className="leftHalf">
 
                       <div className="naming">
-                        <span>Sun Life</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Graduate Engineer Trainee)
+                        <span>Virtusa Consulting Services Pvt Ltd</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Associate Engineer)
                       </div> 
                   
                     </div>
@@ -90,7 +90,107 @@ const AllJobs = () => {
 
                       <div className="buttonDesign">
                     
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSesKl1UoGTghxJDM8-8-x0tEOunuX1LudVt0etZswlWVralig/viewform" target="_blank">Apply</a>
+                        <a href="https://learning.tcsionhub.in/jobs/Virtusa-Consulting-Services-Pvt-Ltd/Associate-Engineer-2356/" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Mu Sigma</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Trainee - Data Science)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">18/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://practice.geeksforgeeks.org/jobs/Musigma-Job-a-thon11" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: 21/07/22">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>HP</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Data Scientist I)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">18/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://jobs.hp.com/jobdetails/16029950/data-scientist-i-bangalore-in/" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>hackerearth</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Intern - Problem Setter - Fullstack)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">18/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://hackerearthjobs.hire.trakstar.com/jobs/fk0so6k" target="_blank">Apply</a>
                         
                       </div>
 
@@ -487,44 +587,6 @@ const AllJobs = () => {
                       <div className="buttonDesign">
                     
                         <a href="https://careers.zohocorp.com/forms/fcc89b5ebd373d598e0224d10f2199d1d084214bfdca8ff29dc971b9f11a3fe3" target="_blank">Apply</a>
-                        
-                      </div>
-
-                      <span className="deadline" title="Deadline: not mentioned">D</span>
-
-                    </div>
-
-                  </div>
-                  
-                </li>
-
-                <hr></hr>
-
-
-
-             
-
-              
-
-
-              <li>
-                  <div className="whole">
-
-                    <div className="leftHalf">
-
-                      <div className="naming">
-                        <span>Accenture</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;System and Application Services Associate)
-                      </div> 
-                  
-                    </div>
-
-                    <div className="rightHalf">
-
-                      <span className="dated">13/07/22</span>
-
-                      <div className="buttonDesign">
-                    
-                        <a href="https://indiacampus.accenture.com/myzone/accenture/1/jobs/2183/job-details" target="_blank">Apply</a>
                         
                       </div>
 
