@@ -46,6 +46,39 @@ const AllJobs = () => {
                     <div className="leftHalf">
 
                       <div className="naming">
+                        <span>Cognizant</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;IT Programmer & Programmer Analyst Trainee (<span>for PWD</span>))
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">18/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://app.joinsuperset.com/join/#/signup/student/jobprofiles/e444577d-20f2-4307-8b52-fbe4c8230adf" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: 24/07/22">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
                         <span>Siemens</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Associate Software Engineer)
                       </div> 
                   
