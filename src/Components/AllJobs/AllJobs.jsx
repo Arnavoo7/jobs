@@ -40,6 +40,40 @@ const AllJobs = () => {
 
 
 
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>MedPlus</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Associate Software Engineer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">20/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://itcareers.medplusindia.com/job-openings" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
               <li>
                   <div className="whole">
 

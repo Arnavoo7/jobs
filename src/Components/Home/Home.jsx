@@ -25,7 +25,7 @@ const Home = () => {
             </button>
   
             <button className="subSections3" onClick={() => { navigate("/nocriteria") }}>
-              <h2>50% or no criteria</h2>   
+              <h2>50 or no % criteria</h2>   
             </button>
   
             <button className="subSections4" onClick={() => { navigate("/others"); }}>
