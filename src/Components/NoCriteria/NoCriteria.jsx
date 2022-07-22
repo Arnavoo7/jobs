@@ -51,6 +51,139 @@ const NoCriteria = () => {
                     <div className="leftHalf">
 
                       <div className="naming">
+                        <span>Siemens</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Associate Software Engineer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">22/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://jobs.siemens.com/jobs/325382?lang=en-us" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Deloitte</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Multiple)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">22/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://jobsindia.deloitte.com/job/Bengaluru-Risk-Advisory-Cyber-Application-Security-SAP-IT-Fresher-Bengaluru-1-1/9707244/" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Sapiens</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Developer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">22/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://careers.sapiens.com/job/Bangalore-Developer/829138401/?" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>klub</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;SDE)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">22/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://jobs.lever.co/klubworks/98ddbb3f-f39a-4853-82a0-656831930051" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
                         <span>ZOHO</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Developer)
                       </div> 
                   
