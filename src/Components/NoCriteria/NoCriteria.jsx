@@ -51,6 +51,138 @@ const NoCriteria = () => {
                     <div className="leftHalf">
 
                       <div className="naming">
+                        <span>KPIT</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Trainee Engineer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">25/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://talentojo-kel.kpit.com/tojo/app/job-apply/#/Campus/50466/77" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Hitachi</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;UI Developer - Cumulus)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">25/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://careers.hitachi.com/jobs/10075185-ui-developer-cumulus" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>NatWest Group</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Engineer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">25/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://jobs.natwestgroup.com/jobs/8869475-software-engineer?bid=370" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: 29/07/22">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>cloudsek</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Python Developer Internship)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">25/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://cloudsek.com/openings/?gh_jid=4589287004&gh_src=eee515c44us" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
                         <span>Siemens</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Associate Software Engineer)
                       </div> 
                   
