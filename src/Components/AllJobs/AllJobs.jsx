@@ -46,6 +46,106 @@ const AllJobs = () => {
                     <div className="leftHalf">
 
                       <div className="naming">
+                        <span>Wiley</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Java Developer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">26/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://edgejobs.wiley.com/en/position/graduate-java-developer-mumbai-0-1-year-experience-mumbai-maharashtra-india" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Accelya</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Engineer I - Software development)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">26/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://egda.fa.ap4.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1480?utm_medium=offcampusjobs4u.com" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Css Corp</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Technical Support Engineer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">26/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://www.csscorp.com/jobs/technical-support-engineers-freshers-graduates-hyderabad/" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
                         <span>KPIT</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Trainee Engineer)
                       </div> 
                   
