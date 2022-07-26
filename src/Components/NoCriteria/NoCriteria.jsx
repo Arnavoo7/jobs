@@ -62,7 +62,7 @@ const NoCriteria = () => {
 
                       <div className="buttonDesign">
                     
-                        <a href="https://mphasis.ripplehire.com/candidate/?ref=FB01&token=wwpCEvGwMnmb9P2PM9QU#apply/job/382576" target="_blank">Apply</a>
+                        <a href="https://mphasis.ripplehire.com/candidate/?ref=FB01&token=wwpCEvGwMnmb9P2PM9QU#detail/job/382576" target="_blank">Apply</a>
                         
                       </div>
 
