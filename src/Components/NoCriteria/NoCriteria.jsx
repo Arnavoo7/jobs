@@ -51,6 +51,39 @@ const NoCriteria = () => {
                     <div className="leftHalf">
 
                       <div className="naming">
+                        <span>Mphasis</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Trainee Associate Software Engineer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">27/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://mphasis.ripplehire.com/candidate/?ref=FB01&token=wwpCEvGwMnmb9P2PM9QU#apply/job/382576" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
                         <span>Accelya</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Engineer I - Software development)
                       </div> 
                   
