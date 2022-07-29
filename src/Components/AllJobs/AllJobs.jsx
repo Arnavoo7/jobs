@@ -46,6 +46,106 @@ const AllJobs = () => {
                     <div className="leftHalf">
 
                       <div className="naming">
+                        <span>HCL</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;NA)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">29/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://forms.office.com/pages/responsepage.aspx?id=N-edGDrJWk-LaG9MqZQZEmkRfz7MIgVFlsxttGHChfxUMEcxSUtESkQ3VkVKRUNHTEg2UlhER0lESS4u" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Freshworks</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Engineering)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">29/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://jobs.smartrecruiters.com/Freshworks/743999841447791-graduate-trainee-software-engineering" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Clootrack</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;SDE (<span>Females only</span>))
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">29/07/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://www.clootrack.com/careers?jobId=fhly1uM-Xja7" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
                         <span>Mphasis</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Trainee Associate Software Engineer)
                       </div> 
                   
