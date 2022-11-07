@@ -22,7 +22,7 @@ const NoCriteria = () => {
               </div>
 
               <div className="navRight">
-                <span>IT Jobs (80 or no % criteria)</span>
+                <span>IT Jobs (80 or no criteria)</span>
               </div>
           </div>
 
