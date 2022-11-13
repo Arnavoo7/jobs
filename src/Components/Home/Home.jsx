@@ -12,7 +12,7 @@ const Home = () => {
     return(
 
         <div className="wholeHome">
-          <h1>IT Jobs</h1>
+          <h1>Jobs</h1>
 
           <div className="section">
   

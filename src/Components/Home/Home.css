@@ -25,8 +25,10 @@
 {
     display: flex;
     flex-direction: row;
-    /* border: 3px solid black; */
+    width: 40%;
+    /* border: 3px solid pink; */
     margin-top: 60px;
+    margin-left: 30%;
 }
 
 .section button:hover
@@ -37,7 +39,7 @@
 }
 
 
-.subSections1
+/* .subSections1
 {
     display: flex;
     flex: 25%;
@@ -52,10 +54,10 @@
     background-color: #191970;
     color: white;
     cursor: pointer;  
-    /* border: 2.5px solid red; */
-}
+    /* border: 2.5px solid red; 
+}*/
 
-
+/*
 .subSections2
 {
     display: flex;
@@ -71,14 +73,14 @@
     background-color: #191970;
     color: white;
     cursor: pointer;  
-    /* border: 2.5px solid red; */
-}
+    /* border: 2.5px solid red; 
+} */
 
 
 .subSections3
 {
     display: flex;
-    flex: 25%;
+    flex: 50%;
     justify-content: center;
     align-items: center;
     border: 2.5px solid yellow;
@@ -90,11 +92,11 @@
     background-color: #191970;
     color: white;
     cursor: pointer;  
-    /* border: 2.5px solid red; */
+    border: 2.5px solid red;
 }
 
 
-.subSections4
+/* .subSections4
 {
     display: flex;
     flex: 25%;
@@ -109,8 +111,8 @@
     background-color: #191970;
     color: white;
     cursor: pointer;  
-    /* border: 2.5px solid red; */
-}
+    /* border: 2.5px solid red; 
+} */
 
 
 @media (max-width: 700px)
@@ -122,7 +124,7 @@
         align-items: center;
     }
 
-    .subSections1
+    /* .subSections1
     {
         width: 85%;
     }
@@ -130,16 +132,16 @@
     .subSections2
     {
         width: 85%;
-    }
+    } */
 
     .subSections3
     {
         width: 85%;
     }
 
-    .subSections4
+    /* .subSections4
     {
         width: 85%;
-    }
+    } */
 }
 
