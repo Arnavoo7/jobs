@@ -43,114 +43,20 @@ const NoCriteria = () => {
 
               <ul>
 
+
+
               <li>
                   <div className="whole">
 
                     <div className="leftHalf">
 
                       <div className="naming">
-                        <span>Thinkitive</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Trainee Software Engineer)
-                      </div> 
-                  
-                    </div>
-
-                    <div className="rightHalf">
-
-                      <span className="dated">12/11/22</span>
-
-                      <div className="buttonDesign">
-                    
-                        <a href="https://www.thinkitive.com/company/trainee-software-engineer-job-description.html" target="_blank">Apply</a>
-                        
-                      </div>
-
-                      <span className="deadline" title="Deadline: not mentioned">D</span>
-
-                    </div>
-
-                  </div>
-                  
-                </li>
-
-                <hr></hr>
-
-
-
-                <li>
-                  <div className="whole">
-
-                    <div className="leftHalf">
-
-                      <div className="naming">
-                        <span>Finideas</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Jr. Software Developer)
-                      </div> 
-                  
-                    </div>
-
-                    <div className="rightHalf">
-
-                      <span className="dated">12/11/22</span>
-
-                      <div className="buttonDesign">
-                    
-                        <a href="https://www.finideas.com/jobs/jr-software-developer/" target="_blank">Apply</a>
-                        
-                      </div>
-
-                      <span className="deadline" title="Deadline: not mentioned">D</span>
-
-                    </div>
-
-                  </div>
-                  
-                </li>
-
-                <hr></hr>
+                        <span>Cognizant</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Engineer
 
 
 
 
-                <li>
-                  <div className="whole">
 
-                    <div className="leftHalf">
-
-                      <div className="naming">
-                        <span>CSS CORP</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Technical Support Engineer
-)
-                      </div> 
-                  
-                    </div>
-
-                    <div className="rightHalf">
-
-                      <span className="dated">12/11/22</span>
-
-                      <div className="buttonDesign">
-                    
-                        <a href="https://www.csscorp.com/jobs/technical-support-engineer/" target="_blank">Apply</a>
-                        
-                      </div>
-
-                      <span className="deadline" title="Deadline: not mentioned">D</span>
-
-                    </div>
-
-                  </div>
-                  
-                </li>
-
-                <hr></hr>
-
-
-
-                <li>
-                  <div className="whole">
-
-                    <div className="leftHalf">
-
-                      <div className="naming">
-                        <span>Quadeye</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Systems Engineer (C++ Developer)
 
 )
                       </div> 
@@ -159,11 +65,11 @@ const NoCriteria = () => {
 
                     <div className="rightHalf">
 
-                      <span className="dated">12/11/22</span>
+                      <span className="dated">16/11/22</span>
 
                       <div className="buttonDesign">
                     
-                        <a href="https://www.quadeye.com/careers/?gh_jid=4221125002" target="_blank">Apply</a>
+                        <a href="https://careers.cognizant.com/in/en/job/COGNGLOBAL000487392113/Software-Engineer" target="_blank">Apply</a>
                         
                       </div>
 
@@ -178,122 +84,16 @@ const NoCriteria = () => {
                 <hr></hr>
 
 
-
-
-
-                <li>
+              <li>
                   <div className="whole">
 
                     <div className="leftHalf">
 
                       <div className="naming">
-                        <span>Accenture</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Associate Software Engg (ASE)
-
-)
-                      </div> 
-                  
-                    </div>
-
-                    <div className="rightHalf">
-
-                      <span className="dated">13/11/22</span>
-
-                      <div className="buttonDesign">
-                    
-                        <a href="https://indiacampus.accenture.com/register/accenture/allinl1/apply/?event=5551&job=2211" target="_blank">Apply</a>
-                        
-                      </div>
-
-                      <span className="deadline" title="Deadline: not mentioned">D</span>
-
-                    </div>
-
-                  </div>
-                  
-                </li>
-
-                <hr></hr>
+                        <span>Cognizant</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Trainee - Junior Data Analyst
 
 
 
-
-                <li>
-                  <div className="whole">
-
-                    <div className="leftHalf">
-
-                      <div className="naming">
-                        <span>IBM</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Associate Software Engineer
-
-)
-                      </div> 
-                  
-                    </div>
-
-                    <div className="rightHalf">
-
-                      <span className="dated">13/11/22</span>
-
-                      <div className="buttonDesign">
-                    
-                        <a href="https://careers.ibm.com/job/16904358/associate-systems-engineer-remote/?codes=IBM_CareerWebSite" target="_blank">Apply</a>
-                        
-                      </div>
-
-                      <span className="deadline" title="Deadline: not mentioned">D</span>
-
-                    </div>
-
-                  </div>
-                  
-                </li>
-
-                <hr></hr>
-
-
-
-                <li>
-                  <div className="whole">
-
-                    <div className="leftHalf">
-
-                      <div className="naming">
-                        <span>Zoho</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Developer
-
-)
-                      </div> 
-                  
-                    </div>
-
-                    <div className="rightHalf">
-
-                      <span className="dated">13/11/22</span>
-
-                      <div className="buttonDesign">
-                    
-                        <a href="https://careers.zohocorp.com/forms/fcc89b5ebd373d598e0224d10f2199d152c193ab04ef6c4888f2775da6c6534f" target="_blank">Apply</a>
-                        
-                      </div>
-
-                      <span className="deadline" title="Deadline: not mentioned">D</span>
-
-                    </div>
-
-                  </div>
-                  
-                </li>
-
-                <hr></hr>
-
-
-
-                <li>
-                  <div className="whole">
-
-                    <div className="leftHalf">
-
-                      <div className="naming">
-                        <span>Couchbase</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Graduate Software Engineer
 
 
 )
@@ -303,11 +103,11 @@ const NoCriteria = () => {
 
                     <div className="rightHalf">
 
-                      <span className="dated">13/11/22</span>
+                      <span className="dated">16/11/22</span>
 
                       <div className="buttonDesign">
                     
-                        <a href="https://jobs.lever.co/couchbase/867eb7a8-6a2c-4f68-a80a-b6543485134c?Source=LI_Jobs" target="_blank">Apply</a>
+                        <a href="https://careers.cognizant.com/studentandinterns/in/en/job/00043576146/Trainee-Junior-Data-Analyst" target="_blank">Apply</a>
                         
                       </div>
 
@@ -321,6 +121,116 @@ const NoCriteria = () => {
 
                 <hr></hr>
 
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>MountBlue</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Development Engineer
+
+
+
+
+)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">16/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://careers.mountblue.io/trainee" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Moody's</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Associate Programmer Analyst
+
+
+
+)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">16/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://careers.moodys.com/job/16050997/associate-programmer-analyst-gurgaon-in/" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Utopus Insights</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Apprenticeship
+
+
+)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">16/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://assessment.hackerearth.com/challenges/hiring/utopus-hiring-challenge-software-apprenticeship-india/" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: 04/12/22">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+            
 
 
 
@@ -541,6 +451,294 @@ const NoCriteria = () => {
                 </li>
 
                 <hr></hr>
+
+
+
+
+                <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Accenture</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Associate Software Engg (ASE)
+
+)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">13/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://indiacampus.accenture.com/register/accenture/allinl1/apply/?event=5551&job=2211" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+                <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>IBM</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Associate Software Engineer
+
+)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">13/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://careers.ibm.com/job/16904358/associate-systems-engineer-remote/?codes=IBM_CareerWebSite" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+
+                <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Zoho</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Developer
+
+)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">13/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://careers.zohocorp.com/forms/fcc89b5ebd373d598e0224d10f2199d152c193ab04ef6c4888f2775da6c6534f" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+
+
+                <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Couchbase</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Graduate Software Engineer
+
+
+)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">13/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://jobs.lever.co/couchbase/867eb7a8-6a2c-4f68-a80a-b6543485134c?Source=LI_Jobs" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+
+                <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Thinkitive</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Trainee Software Engineer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">12/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://www.thinkitive.com/company/trainee-software-engineer-job-description.html" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+                <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Finideas</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Jr. Software Developer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">12/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://www.finideas.com/jobs/jr-software-developer/" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+                <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>CSS CORP</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Technical Support Engineer
+)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">12/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://www.csscorp.com/jobs/technical-support-engineer/" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+                <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Quadeye</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Systems Engineer (C++ Developer)
+
+)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">12/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://www.quadeye.com/careers/?gh_jid=4221125002" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+
+
+
+
 
 
               </ul>
