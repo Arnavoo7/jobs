@@ -51,14 +51,207 @@ const NoCriteria = () => {
                     <div className="leftHalf">
 
                       <div className="naming">
-                        <span>Cognizant</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Engineer
+                        <span>Infosys</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Systems Engineer)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">18/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://career.infosys.com/jobdesc?jobReferenceCode=PROGEN-External-144219&source=44003" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>IQVIA</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Intern)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">18/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://jobs.iqvia.com/job/-/-/24443/39885563696?source=LinkedIn_Slots" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Walmart</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;GRAD INTERN - NO WORK EXPERIENCE)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">18/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://www.linkedin.com/jobs/view/3364543852" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>SAP</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Developer Associate)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">18/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://jobs.sap.com/job/Bangalore-Developer-Associate-560066/870829101/?feedId=" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>TCS HackQuest - Season 7</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Contest)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">18/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://www.tcshackquest.com/" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: 01/01/23">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Capgemini</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Engineering PSS hiring)
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">18/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://app.joinsuperset.com/join/#/signup/student/jobprofiles/cd01cfd7-4e53-46d0-9916-45f966d249f3" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: 30/11/22">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
 
 
 
 
 
+              <li>
+                  <div className="whole">
 
-)
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Cognizant</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Engineer)
                       </div> 
                   
                     </div>
@@ -90,13 +283,7 @@ const NoCriteria = () => {
                     <div className="leftHalf">
 
                       <div className="naming">
-                        <span>Cognizant</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Trainee - Junior Data Analyst
-
-
-
-
-
-)
+                        <span>Cognizant</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Trainee - Junior Data Analyst)
                       </div> 
                   
                     </div>
