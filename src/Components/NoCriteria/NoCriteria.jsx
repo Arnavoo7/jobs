@@ -244,71 +244,6 @@ const NoCriteria = () => {
 
 
 
-
-              <li>
-                  <div className="whole">
-
-                    <div className="leftHalf">
-
-                      <div className="naming">
-                        <span>Cognizant</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Engineer)
-                      </div> 
-                  
-                    </div>
-
-                    <div className="rightHalf">
-
-                      <span className="dated">16/11/22</span>
-
-                      <div className="buttonDesign">
-                    
-                        <a href="https://careers.cognizant.com/in/en/job/COGNGLOBAL000487392113/Software-Engineer" target="_blank">Apply</a>
-                        
-                      </div>
-
-                      <span className="deadline" title="Deadline: not mentioned">D</span>
-
-                    </div>
-
-                  </div>
-                  
-                </li>
-
-                <hr></hr>
-
-
-              <li>
-                  <div className="whole">
-
-                    <div className="leftHalf">
-
-                      <div className="naming">
-                        <span>Cognizant</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Trainee - Junior Data Analyst)
-                      </div> 
-                  
-                    </div>
-
-                    <div className="rightHalf">
-
-                      <span className="dated">16/11/22</span>
-
-                      <div className="buttonDesign">
-                    
-                        <a href="https://careers.cognizant.com/studentandinterns/in/en/job/00043576146/Trainee-Junior-Data-Analyst" target="_blank">Apply</a>
-                        
-                      </div>
-
-                      <span className="deadline" title="Deadline: not mentioned">D</span>
-
-                    </div>
-
-                  </div>
-                  
-                </li>
-
-                <hr></hr>
-
-
               <li>
                   <div className="whole">
 
@@ -457,40 +392,6 @@ const NoCriteria = () => {
 
 
 
-                <li>
-                  <div className="whole">
-
-                    <div className="leftHalf">
-
-                      <div className="naming">
-                        <span>Harman</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Intern
-
-
-)
-                      </div> 
-                  
-                    </div>
-
-                    <div className="rightHalf">
-
-                      <span className="dated">13/11/22</span>
-
-                      <div className="buttonDesign">
-                    
-                        <a href="https://apply.harman.com/HARMAN/job/IN_Bangalore_Sattva-Knowledge-Court-Bdg/Intern_R-20545-2022" target="_blank">Apply</a>
-                        
-                      </div>
-
-                      <span className="deadline" title="Deadline: not mentioned">D</span>
-
-                    </div>
-
-                  </div>
-                  
-                </li>
-
-                <hr></hr>
-
 
 
 
@@ -500,10 +401,7 @@ const NoCriteria = () => {
                     <div className="leftHalf">
 
                       <div className="naming">
-                        <span>WileyEdge</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Java-Software Developer and Python-Production Management
-
-
-)
+                        <span>WileyEdge</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Java-Software Developer and Python-Production Management)
                       </div> 
                   
                     </div>
@@ -849,39 +747,7 @@ const NoCriteria = () => {
                   
                 </li>
 
-                <hr></hr>
-
-
-
-                <li>
-                  <div className="whole">
-
-                    <div className="leftHalf">
-
-                      <div className="naming">
-                        <span>CSS CORP</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Technical Support Engineer
-)
-                      </div> 
-                  
-                    </div>
-
-                    <div className="rightHalf">
-
-                      <span className="dated">12/11/22</span>
-
-                      <div className="buttonDesign">
-                    
-                        <a href="https://www.csscorp.com/jobs/technical-support-engineer/" target="_blank">Apply</a>
-                        
-                      </div>
-
-                      <span className="deadline" title="Deadline: not mentioned">D</span>
-
-                    </div>
-
-                  </div>
-                  
-                </li>
+                
 
                 <hr></hr>
 
