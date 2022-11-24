@@ -51,6 +51,240 @@ const NoCriteria = () => {
                     <div className="leftHalf">
 
                       <div className="naming">
+                        <span>Kanerika</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Engineer - Trainee (Java)
+
+ )
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">24/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLScnNhsJqIWPQoCUzN-aXpCOSTMjDMkG0uvqG2LMLov5MIccgQ/viewform?pli=1" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>ThermoFisher</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Testing Engineer - Intern )
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">24/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://thermofisher.dejobs.org/hyderabad-ind/software-testing-engineer-intern/CB76F2E3BD72456899F81A9D08CAEF63/job/?vs=5073" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>ComCast</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Development Engineer 1 )
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">24/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://jobs.comcast.com/jobs/description/regular?external_or_internal=External&job_id=R349368" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>extrieve</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Multiple )
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">24/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://www.extrieve.com/career/" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>GlobalLogic</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Associate Software Engineer )
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">24/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://www.globallogic.com/careers/associate-software-engineer-irc167395/" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>IBM</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Developer )
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">24/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://careers.ibm.com/job/17142033/software-developer-ahmedabad-in/?codes=SN_LinkedIn" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Qualcomm</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;5G Team Hiring Drive-2 )
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">24/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://forms.office.com/pages/responsepage.aspx?id=ibrpmKHhOE6QB4vavCXeHZPS11JvToZOt9vzKszDTY9UQVhPMVZIQ0lBTk5NU0JVRzlINkVKUDZIUC4u" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
                         <span>Infosys</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Systems Engineer)
                       </div> 
                   
