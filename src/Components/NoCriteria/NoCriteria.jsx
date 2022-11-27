@@ -44,6 +44,142 @@ const NoCriteria = () => {
               <ul>
 
 
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Infosys</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Internship
+
+ )
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">27/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://careers.infosys.com/instep/internship/instepregistrationpage.aspx" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Siemens Energy</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Graduate Trainee Engineer
+
+ )
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">27/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://jobs.siemens-energy.com/en_US/Jobs/FolderDetail?JobPipeline=Linkedin(Wrap)&folderId=238388&rx_job=238388&rx_medium=post&rx_paid=1&rx_r=none&rx_source=LinkedInJobSlots&rx_ts=20221119T223404Z&source=Linkedin(Wrap)&sourceType=PREMIUM_POST_SITE&rx_viewer=7f5900796e5811edaa34bf4812d19294359e4e9af6544d1fb68f33a65f6e84dd" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>AMETEK</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Engineer 1
+
+ )
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">27/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://188100.jobs2web.com/job/Bangalore-Software-Engineer-1-KA-560066/960610100/" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Principal</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Engineer
+
+ )
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">27/11/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://careersindia-principal.icims.com/jobs/36710/software-engineer/job?mobile=false&width=1216&height=500&bga=true&needsRedirect=false&jan1offset=330&jun1offset=330" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
 
               <li>
                   <div className="whole">
