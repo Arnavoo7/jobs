@@ -50,6 +50,76 @@ const NoCriteria = () => {
                     <div className="leftHalf">
 
                       <div className="naming">
+                        <span>Ansys</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Intern
+
+ )
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">01/12/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://careers.ansys.com/job/Noida-Intern-UP-201304/964159600/?utm_source=jssc.in" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>FINASTRA</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Associate Software Engg
+
+ )
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">01/12/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://careers.finastra.com/jobs/7000" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
                         <span>Infosys</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Internship
 
  )
