@@ -44,6 +44,222 @@ const NoCriteria = () => {
               <ul>
 
 
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>GlobalLogic Technologies</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Associate Software Engineer
+
+ )
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">06/12/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeaQdVhBwCvGe-I-4WJ4280VvPDfAZOreyvR24cVCon5ethpA/viewform" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Wipro</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Graduate Engineer Trainee
+
+ )
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">06/12/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://careers.wipro.com/careers-home/jobs/2938843?lang=en-us/" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Technovert</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Trainee Software Developer
+
+ )
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">06/12/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://technovert.kekahire.com/jobdetails/32180" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Naaptol Recruitment by <span title="VibrantMinds Technologies">VMT</span></span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Trainee Software Engineer
+
+ )
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">06/12/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdk_xWJBq5XPfY7QoJqLxxnA-AYaWjtzhz61c4RsSWn22-ivg/viewform" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Hawkins</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Multiple Profiles
+
+ )
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">06/12/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://www.hawkinscookers.com/Jobs_ViewList_MgmtTrainees.aspx" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
+              
+
+
+
+              
+
+
+              <li>
+                  <div className="whole">
+
+                    <div className="leftHalf">
+
+                      <div className="naming">
+                        <span>Zycus</span>&nbsp;&nbsp;&nbsp;(Profile:&nbsp;&nbsp;Software Engineer - Angular
+
+ )
+                      </div> 
+                  
+                    </div>
+
+                    <div className="rightHalf">
+
+                      <span className="dated">06/12/22</span>
+
+                      <div className="buttonDesign">
+                    
+                        <a href="https://zycus.skillate.com/jobs/26966" target="_blank">Apply</a>
+                        
+                      </div>
+
+                      <span className="deadline" title="Deadline: not mentioned">D</span>
+
+                    </div>
+
+                  </div>
+                  
+                </li>
+
+                <hr></hr>
+
+
               <li>
                   <div className="whole">
 
